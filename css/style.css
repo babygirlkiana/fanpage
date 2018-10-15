@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color: #688992;
     
 }
 a {
@@ -16,4 +17,16 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Unica One', cursive;
+    font-size: 100px;
 }
