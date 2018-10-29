@@ -1,8 +1,7 @@
 html {
     height: 100%;
 }
-
-body {
+#indexBody {
     height: 100%;
     background-color: #688992;
     
@@ -29,4 +28,10 @@ a {
     justify-content: center;
     font-family: 'Unica One', cursive;
     font-size: 100px;
+}
+#aboutTitle {
+    color: black;
+}
+#aboutBody {
+    background-image: url("crystal.jpg");
 }
